@@ -3,13 +3,29 @@
 A continuacion se muestra el nombre de dos de mis compañeros y sus respectivos enlaces
 a sus perfiles de GitHub:
 
-____________________________________________________
-|      	       	  |		  		   |
-|      Nombre     |            GitHub	  	   |	
-|_________________|________________________________|
-|	          |				   |
-|  Carlos Ruiz    | https://github.com/CarlosRuizz |
-|_________________|________________________________|
-|		  |				   |
-| Rafael Illescas | https://github.com/rafarafer   |
-|_________________|________________________________|
+<table>
+  <thead>
+      <th>
+    	Nombre 
+      </th>
+      <th>
+    	GitHub 
+      </th>
+</thead>
+  <tbody>
+      <td>
+    	Carlos Ruiz
+      </td>
+      <td>
+    	https://github.com/CarlosRuizz
+      </td>
+      <tr>
+      <td>
+     	Rafael Illescas 
+      </td>
+      <td>
+     	https://github.com/rafarafer 
+      </td>
+ </tr>
+  </tbody>
+</table>
